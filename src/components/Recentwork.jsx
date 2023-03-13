@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
-import Wrapper from '/home/mary/code/React/portfolio/src/lib/Wrapper.jsx'
-import Recentworkbackground from '/home/mary/code/React/portfolio/public/assets/Recentworkbackground.png'
-import Productcard from '/home/mary/code/React/portfolio/public/assets/first-web-page.png'
-import Landingwepage1 from '/home/mary/code/React/portfolio/public/assets/Landingwebpage1.png'
+import Wrapper from '/src/lib/Wrapper.jsx'
+import Recentworkbackground from '/public/assets/Recentworkbackground.png'
+import Productcard from '/public/assets/first-web-page.png'
+import Landingwepage1 from '/public/assets/Landingwebpage1.png'
 
 
 const StyledSection = styled.div`

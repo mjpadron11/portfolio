@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components'
-import AboutImage from '/home/mary/code/React/portfolio/public/assets/AboutBackground.png'
-import Wrapper from '/home/mary/code/React/portfolio/src/lib/Wrapper.jsx';
+import AboutImage from '/public/assets/AboutBackground.png'
+import Wrapper from '/src/lib/Wrapper.jsx';
 
 const StyledContainer= styled.div`
 	display:flex;

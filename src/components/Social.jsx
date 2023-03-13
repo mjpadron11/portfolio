@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Icon } from '@iconify/react';
-import Wrapper from '/home/mary/code/React/portfolio/src/lib/Wrapper.jsx'
+import Wrapper from '/src/lib/Wrapper.jsx'
 import Navbar from './Navbar';
-import ImageFooter from '/home/mary/code/React/portfolio/public/assets/ImageFooter.png';
-import  PlanetFooter from '/home/mary/code/React/portfolio/public/assets/6.png';
+import ImageFooter from '/public/assets/ImageFooter.png';
+import  PlanetFooter from '/public/assets/6.png';
 
 
 const StyledWrapper = styled.div`

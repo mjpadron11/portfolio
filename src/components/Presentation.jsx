@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import Wrapper from '../lib/Wrapper';
-import ImageButtons from '/home/mary/code/React/portfolio/public/assets/ImageButton.png'
-import ImageHeader from '/home/mary/code/React/portfolio/public/assets/ImageHeader.png'
+import Wrapper from '/src/lib/Wrapper';
+import ImageButtons from '/public/assets/ImageButton.png'
+import ImageHeader from '/public/assets/ImageHeader.png'
 
 const StyledPresentationContainer = styled.div`
     display: flex;

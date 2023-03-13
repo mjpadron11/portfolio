@@ -1,10 +1,10 @@
 import React from 'react';
 import { useState, useRef } from 'react';
 import axios from 'axios';
-import Wrapper from '/home/mary/code/React/portfolio/src/lib/Wrapper.jsx'
+import Wrapper from '/src/lib/Wrapper.jsx'
 import styled from 'styled-components';
-import Discussing from '/home/mary/code/React/portfolio/public/assets/discussing.png'
-import PhoneIcon from '/home/mary/code/React/portfolio/public/assets/phone-icon.png'
+import Discussing from '/public/assets/discussing.png'
+import PhoneIcon from '/public/assets/phone-icon.png'
 
 const StyledBoxContainer = styled.div`
 	z-index:30;
